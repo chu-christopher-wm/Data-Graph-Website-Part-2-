@@ -14,6 +14,7 @@ Use any 9 images.
 Below each image, place some descriptive text.
 When a user clicks on an image, dynamically replace it with another image using JavaScript DOM manipulation.
 Place a button under each image's descriptive text that opens a prompt for a new description. When a user enters text into the prompt, replace the existing description with the new text entered into the prompt. Use JavaScript DOM manipulation.
+
 Bonus
 
 After using JavaScript's native DOM methods to complete the project, try using the JQuery JavaScript library to do the same thing.
